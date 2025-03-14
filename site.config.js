@@ -11,16 +11,16 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/iamjjana-ouo/morethan-log",
-    },
+    // {
+    //   name: `morethan-log`,
+    //   href: "https://github.com/iamjjana-ouo/morethan-log",
+    // },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    title: "Iamjjanga's Blog",
+    description: "Wellcome to my blog",
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
